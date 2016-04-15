@@ -1,4 +1,4 @@
-Example project with [React](https://facebook.github.io/react/) + [`jsx-test-helpers`](https://github.com/MoOx/jsx-test-helpers) + [AVA](https://github.com/sindresorhus/ava)
+Sample project showing [AVA](https://github.com/sindresorhus/ava) unit tests for [React](https://facebook.github.io/react/) components using [`jsx-test-helpers`](https://github.com/MoOx/jsx-test-helpers).
 
 ## Install and try
 
